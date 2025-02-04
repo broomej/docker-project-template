@@ -5,3 +5,4 @@ and execute it, then copy the results outside of the container. Uses
 broome/r-ver-genetics, which is currently just rocker/verse with GENESIS
 installed from Bioconductor.
 
+Run the project with `./run.sh`.
